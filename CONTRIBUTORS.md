@@ -1,7 +1,7 @@
 # 项目贡献者
 
 ## 维护者
-- Denghongkun1
+- Denghongkun
 
 ## 贡献者
-- Denghongkun2
+- Denghongkun1
